@@ -1,0 +1,18 @@
+.flex-container{
+    display: flex;
+    flex-direction:row;
+    background-color: aqua;
+}
+
+.My-Plan { 
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+#header-1{text-align: center;}
+
+
+.hdg-1{
+text-align: left;}
+.btn-2{color: brown;}
